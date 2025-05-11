@@ -1,0 +1,16 @@
+{
+  "name": "cocos-2d-demo",
+  "uuid": "7621cb25-4c68-4f78-94d3-45caee22f7ee",
+  "creator": {
+    "version": "3.8.6"
+  },
+  "packageManager": "pnpm@10.7.0",
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.13.0",
+    "eslint": "^9.26.0"
+  }
+}
